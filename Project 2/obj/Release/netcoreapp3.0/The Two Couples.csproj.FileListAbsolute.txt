@@ -1,0 +1,3 @@
+/Volumes/Untitled/School Work/IT1050 Classwork/The Two Couples/obj/Release/netcoreapp3.0/The Two Couples.csprojAssemblyReference.cache
+/Volumes/Untitled/School Work/IT1050 Classwork/The Two Couples/obj/Release/netcoreapp3.0/The Two Couples.AssemblyInfoInputs.cache
+/Volumes/Untitled/School Work/IT1050 Classwork/The Two Couples/obj/Release/netcoreapp3.0/The Two Couples.AssemblyInfo.cs

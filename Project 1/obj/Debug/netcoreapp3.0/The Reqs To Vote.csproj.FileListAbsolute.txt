@@ -1,0 +1,21 @@
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/obj/Debug/netcoreapp3.0/The Reqs To Vote.csprojAssemblyReference.cache
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/obj/Debug/netcoreapp3.0/The Reqs To Vote.AssemblyInfoInputs.cache
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/obj/Debug/netcoreapp3.0/The Reqs To Vote.AssemblyInfo.cs
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/bin/Debug/netcoreapp3.0/The Reqs To Vote.exe
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/bin/Debug/netcoreapp3.0/The Reqs To Vote.deps.json
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/bin/Debug/netcoreapp3.0/The Reqs To Vote.runtimeconfig.json
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/bin/Debug/netcoreapp3.0/The Reqs To Vote.runtimeconfig.dev.json
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/bin/Debug/netcoreapp3.0/The Reqs To Vote.dll
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/bin/Debug/netcoreapp3.0/The Reqs To Vote.pdb
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/obj/Debug/netcoreapp3.0/The Reqs To Vote.dll
+C:/Users/craig/source/repos/Can Ye Vote/The Reqs To Vote/obj/Debug/netcoreapp3.0/The Reqs To Vote.pdb
+/Volumes/Untitled/School Work/IT1050 Classwork/Can Ye Vote/The Reqs To Vote/obj/Debug/netcoreapp3.0/The Reqs To Vote.csprojAssemblyReference.cache
+/Volumes/Untitled/School Work/IT1050 Classwork/Can Ye Vote/The Reqs To Vote/obj/Debug/netcoreapp3.0/The Reqs To Vote.AssemblyInfoInputs.cache
+/Volumes/Untitled/School Work/IT1050 Classwork/Can Ye Vote/The Reqs To Vote/obj/Debug/netcoreapp3.0/The Reqs To Vote.AssemblyInfo.cs
+/Volumes/Untitled/School Work/IT1050 Classwork/Can Ye Vote/The Reqs To Vote/obj/Debug/netcoreapp3.0/The Reqs To Vote.dll
+/Volumes/Untitled/School Work/IT1050 Classwork/Can Ye Vote/The Reqs To Vote/obj/Debug/netcoreapp3.0/The Reqs To Vote.pdb
+W:\School Work\IT1050 Classwork\Can Ye Vote\The Reqs To Vote\obj\Debug\netcoreapp3.0\The Reqs To Vote.csprojAssemblyReference.cache
+W:\School Work\IT1050 Classwork\Can Ye Vote\The Reqs To Vote\obj\Debug\netcoreapp3.0\The Reqs To Vote.AssemblyInfoInputs.cache
+W:\School Work\IT1050 Classwork\Can Ye Vote\The Reqs To Vote\obj\Debug\netcoreapp3.0\The Reqs To Vote.AssemblyInfo.cs
+W:\School Work\IT1050 Classwork\Can Ye Vote\The Reqs To Vote\obj\Debug\netcoreapp3.0\The Reqs To Vote.dll
+W:\School Work\IT1050 Classwork\Can Ye Vote\The Reqs To Vote\obj\Debug\netcoreapp3.0\The Reqs To Vote.pdb

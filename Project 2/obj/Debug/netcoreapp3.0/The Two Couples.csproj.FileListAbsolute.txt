@@ -1,0 +1,21 @@
+C:/Users/craig/source/repos/The Two Couples/obj/Debug/netcoreapp3.0/The Two Couples.csprojAssemblyReference.cache
+C:/Users/craig/source/repos/The Two Couples/obj/Debug/netcoreapp3.0/The Two Couples.AssemblyInfoInputs.cache
+C:/Users/craig/source/repos/The Two Couples/obj/Debug/netcoreapp3.0/The Two Couples.AssemblyInfo.cs
+C:/Users/craig/source/repos/The Two Couples/bin/Debug/netcoreapp3.0/The Two Couples.exe
+C:/Users/craig/source/repos/The Two Couples/bin/Debug/netcoreapp3.0/The Two Couples.deps.json
+C:/Users/craig/source/repos/The Two Couples/bin/Debug/netcoreapp3.0/The Two Couples.runtimeconfig.json
+C:/Users/craig/source/repos/The Two Couples/bin/Debug/netcoreapp3.0/The Two Couples.runtimeconfig.dev.json
+C:/Users/craig/source/repos/The Two Couples/bin/Debug/netcoreapp3.0/The Two Couples.dll
+C:/Users/craig/source/repos/The Two Couples/bin/Debug/netcoreapp3.0/The Two Couples.pdb
+C:/Users/craig/source/repos/The Two Couples/obj/Debug/netcoreapp3.0/The Two Couples.dll
+C:/Users/craig/source/repos/The Two Couples/obj/Debug/netcoreapp3.0/The Two Couples.pdb
+/Volumes/Untitled/School Work/IT1050 Classwork/The Two Couples/obj/Debug/netcoreapp3.0/The Two Couples.csprojAssemblyReference.cache
+/Volumes/Untitled/School Work/IT1050 Classwork/The Two Couples/obj/Debug/netcoreapp3.0/The Two Couples.AssemblyInfoInputs.cache
+/Volumes/Untitled/School Work/IT1050 Classwork/The Two Couples/obj/Debug/netcoreapp3.0/The Two Couples.AssemblyInfo.cs
+/Volumes/Untitled/School Work/IT1050 Classwork/The Two Couples/obj/Debug/netcoreapp3.0/The Two Couples.dll
+/Volumes/Untitled/School Work/IT1050 Classwork/The Two Couples/obj/Debug/netcoreapp3.0/The Two Couples.pdb
+W:\School Work\IT1050 Classwork\The Two Couples\obj\Debug\netcoreapp3.0\The Two Couples.csprojAssemblyReference.cache
+W:\School Work\IT1050 Classwork\The Two Couples\obj\Debug\netcoreapp3.0\The Two Couples.AssemblyInfoInputs.cache
+W:\School Work\IT1050 Classwork\The Two Couples\obj\Debug\netcoreapp3.0\The Two Couples.AssemblyInfo.cs
+W:\School Work\IT1050 Classwork\The Two Couples\obj\Debug\netcoreapp3.0\The Two Couples.dll
+W:\School Work\IT1050 Classwork\The Two Couples\obj\Debug\netcoreapp3.0\The Two Couples.pdb
