@@ -1,0 +1,11 @@
+C:\Users\craigo\source\repos\1050Final\bin\Debug\netcoreapp3.1\1050Final.exe
+C:\Users\craigo\source\repos\1050Final\bin\Debug\netcoreapp3.1\1050Final.deps.json
+C:\Users\craigo\source\repos\1050Final\bin\Debug\netcoreapp3.1\1050Final.runtimeconfig.json
+C:\Users\craigo\source\repos\1050Final\bin\Debug\netcoreapp3.1\1050Final.runtimeconfig.dev.json
+C:\Users\craigo\source\repos\1050Final\bin\Debug\netcoreapp3.1\1050Final.dll
+C:\Users\craigo\source\repos\1050Final\bin\Debug\netcoreapp3.1\1050Final.pdb
+C:\Users\craigo\source\repos\1050Final\obj\Debug\netcoreapp3.1\1050Final.csprojAssemblyReference.cache
+C:\Users\craigo\source\repos\1050Final\obj\Debug\netcoreapp3.1\1050Final.AssemblyInfoInputs.cache
+C:\Users\craigo\source\repos\1050Final\obj\Debug\netcoreapp3.1\1050Final.AssemblyInfo.cs
+C:\Users\craigo\source\repos\1050Final\obj\Debug\netcoreapp3.1\1050Final.dll
+C:\Users\craigo\source\repos\1050Final\obj\Debug\netcoreapp3.1\1050Final.pdb
